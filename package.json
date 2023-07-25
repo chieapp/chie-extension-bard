@@ -1,9 +1,11 @@
 {
-  "name": "chie-extension-empty",
-  "displayName": "An empty Chie extension",
+  "name": "chie-extension-bard",
+  "displayName": "Chie extension for Google Bard",
   "version": "0.0.1",
   "main": "dist/index.js",
-  "keywords": ["chie-extension"],
+  "keywords": [
+    "chie-extension"
+  ],
   "scripts": {
     "build": "tsc"
   },
@@ -11,5 +13,9 @@
     "@types/node": "18.x",
     "chie": "^0.2.0",
     "typescript": "5.0.2"
+  },
+  "dependencies": {
+    "build": "^0.1.4",
+    "yarn": "^1.22.19"
   }
 }
