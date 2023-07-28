@@ -2,7 +2,7 @@
 
 A Chie extension adding support for Google Bard.
 
-<img width="848" src="https://github.com/chieapp/chie-extension-bard/assets/639601/539b4294-de0a-494e-87aa-153d52155e33">
+<img width="848" src="https://github.com/chieapp/chie-extension-bard/assets/639601/f74b5e6c-3805-40bb-ad93-8cf7619194d9">
 
 ## License
 
